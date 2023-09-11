@@ -35,8 +35,8 @@ Find me online.
         <img src="https://img.shields.io/badge/samdbrice.com-orange.svg?style=flat&colorA=007D8A&colorB=007D8A" /></a>
     <a href="https://www.linkedin.com/in/samuelbrice/" alt="LinkedIn">
         <img src="https://img.shields.io/badge/-Samuel_Brice-blue?logo=Linkedin&logoColor=blue&labelColor=white" /></a>
-    <a href="https://www.instagram.com/samdxbrice/" alt="Instagram">
-        <img src="https://img.shields.io/badge/-@samdxbrice-purple?logo=Instagram&logoColor=white&labelColor=962fbf" /></a>
+    <a href="https://www.instagram.com/samd_brice/" alt="Instagram">
+        <img src="https://img.shields.io/badge/-@samd_brice-purple?logo=Instagram&logoColor=white&labelColor=962fbf" /></a>
     <a href="https://drive.google.com/drive/folders/1cC_JL_gWmAFoVWwcernk1lZIpM37zQ7S?usp=sharing" alt="Resume">
         <img src="https://img.shields.io/badge/-Resume_-white?logo=googledocs&logoColor=blue&labelColor=white" /></a>
     <!--a href="mailto:xxxx@gmail.com" alt="Gmail">
