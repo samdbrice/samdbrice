@@ -31,15 +31,15 @@ I [write](http://samdbrice.com/) about software, traveling, and art.
 Find me online.
 
 <p align="center">
-    <a href="http://samdbrice.com" alt="Website">
+    <a href="http://samdbrice.com" target="_blank" alt="Website">
         <img src="https://img.shields.io/badge/samdbrice.com-orange.svg?style=flat&colorA=007D8A&colorB=007D8A" /></a>
-    <a href="https://www.linkedin.com/in/samuelbrice/" alt="LinkedIn">
+    <a href="https://www.linkedin.com/in/samuelbrice/" target="_blank" alt="LinkedIn">
         <img src="https://img.shields.io/badge/-Samuel_Brice-blue?logo=Linkedin&logoColor=blue&labelColor=white" /></a>
-    <a href="https://www.instagram.com/samd_brice/" alt="Instagram">
+    <a href="https://www.instagram.com/samd_brice/" target="_blank" alt="Instagram">
         <img src="https://img.shields.io/badge/-@samd_brice-purple?logo=Instagram&logoColor=white&labelColor=962fbf" /></a>
-    <a href="https://drive.google.com/drive/folders/1cC_JL_gWmAFoVWwcernk1lZIpM37zQ7S?usp=sharing" alt="Resume">
+    <a href="https://drive.google.com/drive/folders/1cC_JL_gWmAFoVWwcernk1lZIpM37zQ7S?usp=sharing" target="_blank" alt="Resume">
         <img src="https://img.shields.io/badge/-Resume_-white?logo=googledocs&logoColor=blue&labelColor=white" /></a>
-    <!--a href="mailto:xxxx@gmail.com" alt="Gmail">
+    <!--a href="mailto:xxxx@gmail.com" target="_blank" alt="Gmail">
         <img src="https://img.shields.io/badge/Gmail-xxxx@gmail.com-white?logo=Gmail&logoColor=white&labelColor=red" /></a-->
 </p>
 
